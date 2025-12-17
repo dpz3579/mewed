@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "codeName": "flexiKey",
+        "name": "Flexi Keychain",
+        "category": "Keychains",
+        "price": "₹150",
+        "image": "image1.jpeg",
+        "images": [
+            "image1.jpeg"
+        ],
+        "description": "",
+        "eta": 1,
+        "discount": "",
+        "detailedInfo": {
+            "fullname": "",
+            "detail": "",
+            "features": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    },
+        {
+        "id": "2",
+        "codeName": "nfcTags",
+        "name": "NFC Tag",
+        "category": "Keychains",
+        "price": "₹260",
+        "image": "test1.jpeg",
+        "images": [
+            "test1.jpeg",
+            "image2.jpeg"
+        ],
+        "description": "",
+        "eta": 1,
+        "discount": "",
+        "detailedInfo": {
+            "fullname": "",
+            "detail": "",
+            "features": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    },
+        {
+        "id": "3",
+        "codeName": "",
+        "name": "Bloom Mini Lamp",
+        "category": "Lamps",
+        "price": "₹769",
+        "images": [
+        ],
+        "description": "",
+        "eta": 1,
+        "discount": "",
+        "detailedInfo": {
+            "fullname": "",
+            "detail": "",
+            "features": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    },
+        {
+        "id": "4",
+        "codeName": "",
+        "name": "Lithophane Lamp",
+        "category": "Lamps",
+        "price": "₹1500",
+        "images": [
+        ],
+        "description": "",
+        "eta": 1,
+        "discount": "",
+        "detailedInfo": {
+            "fullname": "",
+            "detail": "",
+            "features": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    }
+
+]
